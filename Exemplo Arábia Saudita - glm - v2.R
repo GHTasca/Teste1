@@ -1,5 +1,6 @@
 ### Conjunto de dados Saudi Arabia Real Estate (AQAR)
 #
+#Testes1212121212
 setwd('C:\\Gustavo\\Consultorias\\Previdência\\Aulas\\Aula 4')
 library(tidyverse)
 dados_orig<-read_csv('Saudi Arabia real estate.csv',locale = locale(encoding = "UTF-8"))
